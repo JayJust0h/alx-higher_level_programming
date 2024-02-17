@@ -1,12 +1,6 @@
 0x0F. Python - Object-relational mapping
 ========================================
 
--   By Guillaume
--   Weight: 1
-
-Before you start...
------------------
-
 **Please make sure your MySQL server is in 8.0** -> [How to install MySQL 8.0 in Ubuntu 20.04](https://phoenixnap.com/kb/install-mysql-ubuntu-20-04 "How to install MySQL 8.0 in Ubuntu 20.04")
 
 Background Context
